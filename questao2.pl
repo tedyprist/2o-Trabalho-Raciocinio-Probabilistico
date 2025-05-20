@@ -1,3 +1,4 @@
+%Tedy Prist de Souza Pereira - 22050676
 
 % Probabilidades básicas
 0.5::str(dry); 0.3::str(wet); 0.2::str(snow_covered).
